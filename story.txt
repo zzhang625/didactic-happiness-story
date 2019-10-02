@@ -1,7 +1,2 @@
-Ziqis-mbp:story_ziqi weidi$ vi story.txt
-
-Bernadette is exhaused after school works. She is a college student at Universit
-y of Wisconsin-Madison. After her computer science class, she meets her high school classmate Calvin. Calvin is not working hard and is not getting a good grade
-. His grade is so bad that he is about to be kicked out of college. "Is there an
-ything you can help me with?" He asked.
+Bernadette is exhaused after school works. She is a college student at University of Wisconsin-Madison. After her computer science class, she meets her high school classmate Calvin. Calvin is not working hard and is not getting a good grade. His grade is so bad that he is about to be kicked out of college. "Is there anything you can help me with?" He asked.
 
